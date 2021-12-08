@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ascendant-talon-329019",
+  "private_key_id": "7ebc56d84443983423bc6cb4fba1de2a9458e332",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCiV00BQ5PUuX2O\ndOn5h+sMb6zSyBK3d3Kgqt+CN4cNG6QrgvAqNG4BOv13Y21CtFz9vq9TMhA7Cq1z\nHtYgcid0Zp17oWH5LtCIOjszRYwY8TOHOrypxo5WTSDVMJ0suQ7id+mHYl/dHF9h\nhhiangDVWoCfb0JVMzcHSUi5fqAb3joHrAanUyxqGayqx8Zp9HF6zgThEdCfRXhg\nHqgbtAv2tFf9BkAMs3HOD4YgwRS1nqtFDzPigqxFBJ28p1ilebfqVNAEzNDRb28T\n1laHE+MJrx6rOgF9SUE/NYBKaCV08sgxMatNCW6lAVxkJYujkpy/xmyTLl7qZWX1\nwuefMDhlAgMBAAECggEAERZr2FN24sgAf4duXlHQa59wm0IseCvGQMOjoZb7K+XK\nLrtKUMLyhkYhiljIliIafKn+1dy56SELV0f6ZXFmlkG711jKEXq8P+6TLyclozV2\nRUhpNdycvFhDebUzghLbjnptNg8khIdZQdBl1BaIA20Sh1Wkb4fjxaxQz5eUvkIH\nnP9R3JVk762yREc/TY/AYLyWvZCde9hpQ9UsbpdTFjNEG+p/Qk1IqA3M1yYHXwDx\nL+MGpVSWSyk8v6tH8xaVD1bfh6qTULRlF47iN7CnMvIOGKa6DP8Y4zZHvofduvD9\nyQwWw75g8bRLenTC0G9gBRjIcghggtf/wX5BPOZXMQKBgQDdbpunYJ4HYHPkHE+C\n32sqvHsgLleX0hDZJ5CqetfAeAKObtLknrXY6LpiwE+iOafkhJ1McT/xYHN9rD0X\nfnsWNB6zWPmsEKp778194Kj97pN5ug+zVkafVWpDRdNp4I+uakzJDgjwJ1zdkgOg\nTCnXUzsRAIQr2mWSS9P0tg10cQKBgQC7rygcG+/mU7AobvGOwz+3MJbhnLw+HCKN\n3M9CSGzTaZo4QBssROqk+N+ALKHIiwm0gkH+JBuZ8D8TlG0zTjg7RSfWpDtQfw6H\nk6C4tqPKPkU3WJTL8y3x9Y1DzDI7FyX2Hwl7aKmvUPrkWMomv6fqv9G1hJZ98auL\nWoQIfoNtNQKBgCOMMy7Oou/6OwCezuDqrxCgS3/iEKvNzGigImhL6kD6wyZMgkyz\ncewNiIZ76wzXBq334Cy6bZJ5cnD1aqVP58Crw1X1bbeCwWu+FpYjr918JG7BQO4A\nZrwDgVilaAgyRb6xT/xi5WpwV0c2vqBIOdtYgD39gDpuCCpRRAigBU7xAoGAT/T/\nEXqVaXqdwZwCLN/hdRmuLc+oIo256tX3NjXEpwyGNxCYgvOZQ08DaIebJOSW7d/Q\nXYTkfWBsftrs6r6YFigQINE2s8RtXDT4c7jbbn243ytNuNWQ7VO/KvMDM0lZUtFG\nKN0d7SKCwGVTOc7MqqWtobcqpd0fR+738OZ090ECgYAKhSEokCtJ9AqvsX7PkYlv\nykSoDH8YmhzTCutE951e7yIP8XpIezQ0mAhhQsASGgaNR7OOat4HcD4Dki/EiGRp\n/oZVym1/UH/40ih3UMmCcilipZknyWOKe8DzP92Qx1OQO+aZWmbwNzkOhc3xloFC\nl37U07/2P99vQAwA81VZPQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "viniciussoares12@ascendant-talon-329019.iam.gserviceaccount.com",
+  "client_id": "106262048871620612846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/viniciussoares12%40ascendant-talon-329019.iam.gserviceaccount.com"
+}

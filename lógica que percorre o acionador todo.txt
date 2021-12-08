@@ -1,0 +1,18 @@
+  void Processar() {
+      var entradaFormatada = entrada_usuario.text.split(" ");
+
+      for (Resposta r in respostas) {
+        for (int i = 0; i < entradaFormatada.length; i++) {
+          if (entradaFormatada.contains(r.acionador)) {
+            return setState(() {
+              historico.insert(0, {"identificador": 0, "mensagem": r.resposta});
+
+              //print(historico[0].toString());
+            });
+          }
+          break;
+        }
+      }
+      return historico.insert(0,
+          {"identificador": 0, "mensagem": "Não sei te te responder amigão"});
+    }

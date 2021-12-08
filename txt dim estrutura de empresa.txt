@@ -1,0 +1,17 @@
+Dim estrutura de empresa, ligada com a dimensão colaborador, pelo cod.centrocusto.
+
+Dim estrutura de empresa 
+
+* Nome da empresa
+* codcoligado
+* grupo cliente
+* centro custo
+* codcentrocusto
+* codcliente
+* nome do cliente
+
+from GTPdatawarehouse
+
+Grupo cliente
+cliente 
+centro custo

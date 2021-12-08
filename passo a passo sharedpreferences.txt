@@ -1,0 +1,5 @@
+Salvar usuario no shared preferences
+
+* Criar um model de usuario (classe com os atributos do usuario) no site JSON to dart
+
+* Criar um metodo cadastrar que intancia um novo usuario vindo da classe do model, "void cadastrar(){intanciar um usuario aqui passando os controllers como parametro}"
